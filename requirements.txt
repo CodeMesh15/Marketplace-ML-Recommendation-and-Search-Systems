@@ -1,0 +1,15 @@
+# Core libraries
+pandas
+numpy
+
+# For Recommendation and Search
+scikit-learn
+scipy
+rank_bm25
+
+# For Ranking Model
+lightgbm
+
+# For API
+Flask
+joblib
